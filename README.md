@@ -16,7 +16,7 @@ The goal of this project is to build a Logistic Regression model to predict the 
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/ctrl-Ravi/LogisticRegressionProject.git
+1. Clone the repository: git clone https://github.com/AdarshBarnwal/Logistic_Regression_Project.git
 
 
 2. Install the required packages: pip install -r requirements.txt
